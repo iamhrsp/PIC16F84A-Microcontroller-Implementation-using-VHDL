@@ -3,7 +3,7 @@ Multiplexer, Writing a testbench and simulating
 
 **Book:** Peter J. Ashenden, *``The designer's guide to VHDL''*, 3rd edition
 
-The following chapter of the book have been studied: 3.1-3.5. Particularly
+The following chapter of the book have been studied: 1,2,3,13,5,16. Particularly
 the sections: 3.4, 5.3, 13.1, 16.1, 16.2. Things learnt:
 *  Components
 *  File-IO
