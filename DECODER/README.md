@@ -1,5 +1,5 @@
-Instruction Decoder for microcontroller
-==========================================
+Addiing Instruction Decoder for microcontroller
+================================================
 
 **Book:** Peter J. Ashenden, *``The designer's guide to VHDL''*, 3rd edition
 **Goal:** Learn the basics of synchronous and combinatorial logic, and the design of finite state machines with VHDL.
