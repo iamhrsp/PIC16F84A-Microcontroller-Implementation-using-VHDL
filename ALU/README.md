@@ -59,7 +59,3 @@ Write a test bench that reads the ``program file'', executes it with ALU, and
 writes all the outputs to another file.
 
 
-
- 
-**Workload:** Preparations 8h + exercise 2h
-
