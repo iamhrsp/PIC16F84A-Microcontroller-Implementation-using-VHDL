@@ -1,5 +1,5 @@
-Multiplexer, Writing a testbench and simulating
-==================================================
+Getting started with VHDL--Multiplexer, Writing a testbench and simulating
+===========================================================================
 
 **Book:** Peter J. Ashenden, *``The designer's guide to VHDL''*, 3rd edition
 
