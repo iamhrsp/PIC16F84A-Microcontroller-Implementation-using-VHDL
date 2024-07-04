@@ -1,5 +1,5 @@
-Arithmetic Logic Unit (ALU)
-============================
+Arithmetic Logic Unit (ALU) for microcontroller
+=================================================
 
 **Book:** Peter J. Ashenden, *``The designer's guide to VHDL''*, 3rd edition
 
