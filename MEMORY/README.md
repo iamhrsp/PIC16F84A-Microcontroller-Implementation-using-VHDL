@@ -1,5 +1,5 @@
  
-Memory implementation for microcontroller 
+Adding Memory for microcontroller 
 ===========================================
 
 **Book:** Peter J. Ashenden, *``The designer's guide to VHDL''*, 3rd edition
