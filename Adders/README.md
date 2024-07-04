@@ -1,5 +1,5 @@
-Implementing a parallel design for two different adder architectures
-=======================================================================
+Getting started with VHDL--Implementing a parallel design for two different adder architectures
+================================================================================================
 
 **Book:** Peter J. Ashenden, *``The designer's guide to VHDL''*, 3rd edition
 
