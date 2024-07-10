@@ -6,7 +6,7 @@
 
 * Simulators used : Questa Sim 10.6
   
-This project demonstrates modelling and implementation of the PIC16F84A microcontroller using VHDL, organized into various modules such as ALU, Memory, Decoder, and the final integration of the PIC microcontroller. This repository contains the VHDL code for various modules to implement this microcontroller from scratch, providing a deep understanding of its internal architecture and functioning. It also contains a study diary which I wrote throughout the duration of the course. The dairy has simple dairy entries which enables the reader to keep track of the developments and changes I made while wriring the VHDL code.
+This project demonstrates modelling and implementation of the PIC16F84A microcontroller using VHDL, organized into various modules such as ALU, Memory, Decoder, and the final integration of the PIC microcontroller. This repository contains the VHDL code for various modules to implement this microcontroller from scratch, providing a deep understanding of its internal architecture and functioning. It also contains a study diary which was written throughout the duration of the course. The dairy has simple dairy entries which enables the reader to keep track of the developments and changes which were made while wriring the VHDL code.
 
 ## Project Structure
 
