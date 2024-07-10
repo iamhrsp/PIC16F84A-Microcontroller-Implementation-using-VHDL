@@ -10,10 +10,10 @@ This project demonstrates modelling and implementation of the PIC16F84A microcon
 
 ## Project Structure
 
-The repository is organized into the following directories, each representing a crucial component of the microcontroller:
+The repository is organized into directories, each representing a key component of the microcontroller. These directories contain further details about what has been implemented. This structure also reflects the order followed during the microcontroller's design and development:
 
 - **Multiplexer**: Getting started with writing simple VHDL code along with testbench.
-- **Adders**: Implementing simple process adder, ripple carry adder and a process adder using VHDL, writing testbench and simulating to check its functionality.
+- **Adders**: Implementing simple process adder and ripple carry adder using VHDL, writing testbenches and simulating to check their functionality.
 - **ALU**: Arithmetic Logic Unit, responsible for executing arithmetic and logical operations. The datasheet of PIC16F84A is followed while implementinug the instruction set. A total of 18 instructions are implemented. 
 - **Memory**: Implementation of the data memory. The instructions are provided by an input file.
 - **Decoder**: Instruction decoder to interpret and execute instructions. The input is a 14-bit instruction word.
