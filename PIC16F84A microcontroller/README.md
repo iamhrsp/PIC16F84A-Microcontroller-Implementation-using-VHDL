@@ -9,5 +9,7 @@ Design and implementation of PIC16F84A microcontroller as shown by the pipeline 
 
 * The Instructions from the HEX file are decoded and read using functions defined in **read_intel_hex_pack** package in the **hexfile_reader.vhd** file.
 
+* A graphical layout of the compunents and the data flow within these components is shown in **colour_coded_internal_connections.jpg** file.
+
 * The final simulation result is shown in the **simulation_output.jpg** file
 
