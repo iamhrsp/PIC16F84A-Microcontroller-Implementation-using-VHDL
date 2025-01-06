@@ -11,6 +11,9 @@ This project demonstrates modelling and implementation of the PIC16F84A microcon
 ## Architecture of PIC microcontroller
 ![The highlighted region shows the part of the microcontroller implemented in this project](https://github.com/iamhrsp/PIC16F84A-Microcontroller-Implementation-using-VHDL/blob/main/PIC16F84A%20microcontroller/pic.jpg)
 
+## Final Simulation
+The figure shows the output waveform of the modelled microcontroller. The signals are represented using different colours. Various opcodes can be seen with required inputs and outputs. All the project details and files are in **PIC16F84A microcontroller** directory.
+![QuestaSim output waveform of the modelled microcontroller](https://github.com/iamhrsp/PIC16F84A-Microcontroller-Implementation-using-VHDL/blob/main/PIC16F84A%20microcontroller/Simulation_output.jpg)
 
 ## Project Structure
 
