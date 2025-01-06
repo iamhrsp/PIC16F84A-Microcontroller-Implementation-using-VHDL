@@ -8,6 +8,9 @@
   
 This project demonstrates modelling and implementation of the PIC16F84A microcontroller using VHDL, organized into various modules such as ALU, Memory, Decoder, and the final integration of the PIC microcontroller. This repository contains the VHDL code for various modules to implement this microcontroller from scratch, providing a deep understanding of its internal architecture and functioning. It also contains a study diary which was written throughout the duration of the course. The dairy has simple dairy entries which enables the reader to keep track of the developments and changes which were made while wriring the VHDL code.
 
+## Architecture of PIC microcontroller
+![The highlighted region shows the part of the microcontroller implemented in this project](PIC16F84A microcontroller/pic.jpg)
+
 ## Project Structure
 
 The repository is organized into directories, each representing a key component of the microcontroller. These directories contain further details about what has been implemented. This structure also reflects the order followed during the microcontroller's design and development:
